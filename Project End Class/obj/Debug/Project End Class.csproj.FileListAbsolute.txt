@@ -1,0 +1,10 @@
+E:\Work C#\Project End Class\Project End Class\bin\Debug\Project End Class.exe.config
+E:\Work C#\Project End Class\Project End Class\bin\Debug\Project End Class.exe
+E:\Work C#\Project End Class\Project End Class\bin\Debug\Project End Class.pdb
+E:\Work C#\Project End Class\Project End Class\obj\Debug\Project End Class.csproj.AssemblyReference.cache
+E:\Work C#\Project End Class\Project End Class\obj\Debug\Project_End_Class.Form1.resources
+E:\Work C#\Project End Class\Project End Class\obj\Debug\Project_End_Class.Properties.Resources.resources
+E:\Work C#\Project End Class\Project End Class\obj\Debug\Project End Class.csproj.GenerateResource.cache
+E:\Work C#\Project End Class\Project End Class\obj\Debug\Project End Class.csproj.CoreCompileInputs.cache
+E:\Work C#\Project End Class\Project End Class\obj\Debug\Project End Class.exe
+E:\Work C#\Project End Class\Project End Class\obj\Debug\Project End Class.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work C#\\Project End Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C81A6C-BC61-4DCD-9D15-DE18AD653CFB}|Project End Class\\Project End Class.csproj|E:\\Work C#\\Project End Class\\project end class\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C81A6C-BC61-4DCD-9D15-DE18AD653CFB}|Project End Class\\Project End Class.csproj|solutionrelative:project end class\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C81A6C-BC61-4DCD-9D15-DE18AD653CFB}|Project End Class\\Project End Class.csproj|e:\\work c#\\project end class\\project end class\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C81A6C-BC61-4DCD-9D15-DE18AD653CFB}|Project End Class\\Project End Class.csproj|solutionrelative:project end class\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Work C#\\Project End Class\\Project End Class\\Form1.cs",
+              "RelativeDocumentMoniker": "Project End Class\\Form1.cs",
+              "ToolTip": "E:\\Work C#\\Project End Class\\Project End Class\\Form1.cs",
+              "RelativeToolTip": "Project End Class\\Form1.cs",
+              "ViewState": "AgIAAPwCAAAAAAAAAAAAwGoDAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:43:57.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Work C#\\Project End Class\\Project End Class\\Form1.cs",
+              "RelativeDocumentMoniker": "Project End Class\\Form1.cs",
+              "ToolTip": "E:\\Work C#\\Project End Class\\Project End Class\\Form1.cs [Design]",
+              "RelativeToolTip": "Project End Class\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:06:17.182Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
